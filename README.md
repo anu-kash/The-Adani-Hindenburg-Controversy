@@ -8,6 +8,6 @@ Adani is a big name not only in India but also globally. It’s been about three
 The allegations have nevertheless had an immediate knock-on effect, with more than $100 billion wiped from the group’s market value, as well as Gautam Adani losing his status as both Asia and India’s richest man. With the context set, now we proceed to the analysis.
 
 
-Objective: Analyzing influencer networks supporting vs opposing Adani 
+<b>Objective</b>: Analyzing influencer networks supporting vs opposing Adani <br>
 ● Identified hashtags in support vs against the matter and created two separate channels for analysis <br>
 ● Detected influencers in the two networks on the basis of centrality measures and account engagement metrics <br>
