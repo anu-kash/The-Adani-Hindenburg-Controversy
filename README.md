@@ -9,5 +9,5 @@ The allegations have nevertheless had an immediate knock-on effect, with more th
 
 
 Objective: Analyzing influencer networks supporting vs opposing Adani 
-● Identified hashtags in support vs against the matter and created two separate channels for analysis
-● Detected influencers in the two networks on the basis of centrality measures and account engagement metrics
+● Identified hashtags in support vs against the matter and created two separate channels for analysis <br>
+● Detected influencers in the two networks on the basis of centrality measures and account engagement metrics <br>
